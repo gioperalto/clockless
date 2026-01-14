@@ -1,0 +1,17 @@
+{
+  "folder_path": "path/to/icecream-shop-app",
+  "interval_mins": "150",
+  "tasks": [
+    {
+      "name": 
+      "model": "claude-haiku-4-5",
+      "branch": "select-flavors",
+      "prompt": "Add a feature to the API that allows users to select their flavor of ice cream"
+    },
+    {
+      "model": "claude-opus-4-5",
+      "branch": "new-design",
+      "prompt": "Redesign the frontend to be responsive with a lighter, yet playful, color palette. Think 'Ice Cream Shop!'"
+    }
+  ]
+}
